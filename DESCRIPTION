@@ -1,0 +1,11 @@
+Package: RchatSF
+Title: DeepSeek Chat API Interface
+Version: 0.1.0
+Authors@R: person("mumdark", role = c("aut", "cre"), email = "ningyan1212@gmail.com")
+Description: Interface for DeepSeek Chat API.
+License: MIT
+Encoding: UTF-8
+Imports:
+    httr,
+    jsonlite
+RoxygenNote: 7.3.1
