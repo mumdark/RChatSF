@@ -18,13 +18,13 @@ You can use the code below to execute the example:
 
 ``` r
 library("RchatSF")
-RchatSF(api_key, 
-        model = "deepseek-ai/DeepSeek-R1", 
-        max_tokens = 8190, 
-        temperature = 0.6, 
-        top_k = 50, 
-        top_p = 0.7, 
-        frequency_penalty = 0)
+RchatSF("your api key", 
+              model = "deepseek-ai/DeepSeek-R1", 
+              max_tokens = 8190, 
+              temperature = 0.6, 
+              top_k = 50, 
+              top_p = 0.7, 
+              frequency_penalty = 0)
 ```
 
 **Note**: When you encounter issues such as 504 errors due to server congestion, we highly recommend using the **pro** version of the model `Pro/deepseek-ai/DeepSeek-R1`. 
