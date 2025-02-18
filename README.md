@@ -34,7 +34,9 @@ For more model options, please refer to:
 - https://siliconflow.cn/zh-cn/
 - https://docs.siliconflow.cn/cn/faqs/misc#5-pro-pro
 
-
+---
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/457973b3-ca38-4a89-a00b-24ee04fed961" />
+---
 
 ## Copyright
 
