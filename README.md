@@ -1,7 +1,7 @@
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/457973b3-ca38-4a89-a00b-24ee04fed961" />
 
----
+<br>
 
 **`RChatSF`** is an R package for calling the **Siliconflow** (硅基流动) API, enabling rapid interaction with various LLM models, including **DeepSeek**. 
 
