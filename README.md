@@ -3,7 +3,7 @@
 
 ---
 
-RChatSF is an R package for calling the **Siliconflow** (硅基流动) API, enabling rapid interaction with various LLM models, including **DeepSeek**. 
+**`RChatSF`** is an R package for calling the **Siliconflow** (硅基流动) API, enabling rapid interaction with various LLM models, including **DeepSeek**. 
 
 Once you create a Siliconflow account, you can enjoy efficient analysis workflows in R.
 
