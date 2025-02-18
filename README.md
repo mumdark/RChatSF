@@ -27,7 +27,7 @@ RchatSF("your api key",
               frequency_penalty = 0)
 ```
 
-**Note**: When you encounter issues such as 504 errors due to server congestion, we highly recommend using the **pro** version of the model `Pro/deepseek-ai/DeepSeek-R1`. 
+**Note**: When you encounter issues such as 504 errors due to server congestion, we highly recommend using the `pro` version of the model `Pro/deepseek-ai/DeepSeek-R1`. 
 
 For more model options, please refer to:
 
