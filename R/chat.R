@@ -62,7 +62,6 @@ RchatSF <- function(api_key, model = "deepseek-ai/DeepSeek-R1", max_tokens = 819
     messages <- append(messages, list(list(role = "user", content = user_input)))
     cat("\033[33m思考中...\033[0m\n")
 
-    # 修改后的核心逻辑
     response <- .chat_completion(messages, api_key, model, max_tokens, temperature, top_k, top_p, frequency_penalty)
 
     if (is.null(response)) {
